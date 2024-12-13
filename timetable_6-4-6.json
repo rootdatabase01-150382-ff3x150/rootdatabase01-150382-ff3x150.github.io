@@ -1,62 +1,68 @@
 {
 	"name": "Timetable",
 	"version": "6.4.6",
+	"header-links":{
+		"site-study":"https://classroom.google.com/u/9/c/NzA4MDA1MzAyMDYy?hl=ru",
+		"diary":"https://nz.ua/menu",
+		"robocode":"https://profile.robocode.ua/profile/user6364413748"
+
+	},
 	"timetable": {
 		"monday":[
 			{
-				"1":["Істор.укр","#01b7b7"],
-				"2":["Всесв. історія","#7FFFD4"],
-				"3":["Англ.мов","#808000"],
-				"4":["Біологія","#008000"],
-				"5":["Хімія","#6A5ACD"],
-				"6":["Хімія","#6A5ACD"],
-				"7":["Трудове нав","#F0FFF0"],
-				"8":["Астрономія","#BC8F8F"]
+				"1":["Істор.укр","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMTk2NTUy?hl=ru", "group-1"],
+				"2":["Всесв. історія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMTg1NjA4?hl=ru", "group-2"],
+				"3":["Англ.мов","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMDYyMTk1?hl=ru", "group-3"],
+				"4":["Біологія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwNjAyNDYy?hl=ru", "group-4"],
+				"5":["Хімія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY3ODcyMDUz?hl=ru", "group-5"],
+				"6":["Хімія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY3ODcyMDUz?hl=ru", "group-5"],
+				"7":["Трудове нав","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY5NDczNzk1?hl=ru", "group-6"],
+				"8":["Астрономія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjQ5MzU4Mjky?hl=ru", "group-7"]
 			}
 		],
 		"tuesday":[
 			{
-				"1":["Алгебра","#FF6347"],
-				"2":["Фізика","#D2691E"],
-				"3":["Укр-літ","#DAA520"],
-				"4":["Хімія","#6A5ACD"],
-				"5":["Геометрія","#FF6347"],
-				"6":["Біологія","#008000"],
-				"7":["Фіз-ра","#BA55D3"],
-				"8":["Зах./Істор. укр","#F0FFF0"]
+				"1":["Алгебра","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjQ5OTYwNjAz?hl=ru", "group-8"],
+				"2":["Фізика","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMjgyMjU5?hl=ru", "group-9"],
+				"3":["Укр-літ","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMjgxOTE3?hl=ru", "group-10"],
+				"4":["Хімія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY3ODcyMDUz?hl=ru", "group-5"],
+				"5":["Геометрія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMzcxNjU5?hl=ru", "group-11"],
+				"6":["Біологія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwNjAyNDYy?hl=ru", "group-4"],
+				"7":["Фіз-ра","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzEwNTQwMDcyNjUy?hl=ru", "group-12"],
+				"8":["Зах./Істор. укр", "#"]
 			}
 		],
 		"wednesday":[
 			{
-				"1":["Алгебра","#FF6347"],
-				"2":["Інформат","#00FF7F"],
-				"3":["Фізика","#D2691E"],
-				"4":["Хімія","#6A5ACD"],
-				"5":["Біологія","#008000"],
-				"6":["Фіз-ра","#BA55D3"],
-				"7":["Зах.укр","#7FFFD4"]
+				"1":["Алгебра","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjQ5OTYwNjAz?hl=ru", "group-8"],
+				"2":["Інформат","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY5MjUzNDUx?hl=ru", "group-13"],
+				"3":["Фізика","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMjgyMjU5?hl=ru", "group-9"],
+				"4":["Хімія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY3ODcyMDUz?hl=ru", "group-5"],
+				"5":["Біологія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwNjAyNDYy?hl=ru", "group-4"],
+				"6":["Фіз-ра","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzEwNTQwMDcyNjUy?hl=ru", "group-12"],
+				"7":["Зах.укр","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY2NjQ2MTY0?hl=ru", "group-14"]
 			}
 		],
 		"thursday":[
 			{
-				"1":["Хімія","#6A5ACD"],
-				"2":["Біологія","#008000"],
-				"3":["Фіз-ра","#BA55D3"],
-				"4":["Англ.мов","#808000"],
-				"5":["Трудове нав.","#F0FFF0"],
-				"6":["Укр.мов","#FFD700"],
-				"7":["Заруб.літ","#F0FFF0"]
+				"1":["Хімія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY3ODcyMDUz?hl=ru", "group-5"],
+				"2":["Біологія", "https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwNjAyNDYy?hl=ru", "group-4"],
+				"3":["Фіз-ра","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzEwNTQwMDcyNjUy?hl=ru", "group-12"],
+				"4":["Англ.мов","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMDYyMTk1?hl=ru", "group-3"],
+				"5":["Трудове нав","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY5NDczNzk1?hl=ru", "group-6"],
+				"6":["Укр.мов","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMzkzODM3?hl=ru", "group-15"],
+				"7":["Заруб.літ","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwNzcxNzE2?hl=ru", "group-16"]
 			}
 		],
 		"friday":[
 			{
-				"1":["Біологія","#008000"],
-				"2":["Географія","#00FFFF"],
-				"3":["Геометрія","#FF6347"],
-				"4":["Укр.мов","#FFD700"],
-				"5":["Хімія","#6A5ACD"],
-				"6":["Фізика","#D2691E"],
-				"7":["Укр-літ","#DAA520"]
+				"1":["Біологія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwNjAyNDYy?hl=ru", "group-4"],
+				"2":["Географія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTcwODQ1MDU2?hl=ru", "group-17"],
+				"3":["Геометрія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMzcxNjU5?hl=ru", "group-11"],
+				"4":["Укр.мов","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMzkzODM3?hl=ru", "group-15"],
+				"5":["Хімія","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA4NTY3ODcyMDUz?hl=ru", "group-5"],
+				"6":["Фізика","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMjgyMjU5?hl=ru", "group-9"],
+				"7":["Укр-літ","https://classroom.google.com/u/9/w/NzA4MDA1MzAyMDYy/tc/NzA5NjUwMjgxOTE3?hl=ru", "group-10"]
 			}
 		]
 	},
