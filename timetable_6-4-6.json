@@ -233,9 +233,11 @@
 	],
 	"license":"https://www.gnu.org/licenses/agpl-3.0.txt",
 	"style":{
-		"img":{
-			"background-img-1":"image.jpg"
-		}
+		"img-list":[
+			"https://rootdatabase01-150382-ff3x150.github.io/img/timetable-logo.png",
+			""
+	
+		]
 	}
 
 }
