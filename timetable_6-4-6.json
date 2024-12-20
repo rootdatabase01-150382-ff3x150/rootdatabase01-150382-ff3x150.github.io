@@ -1,6 +1,9 @@
 {
-	"name": "Timetable",
-	"version": "6.4.6",
+	"name": "Timetable Web App",
+	"version": "7.0.0",
+	"ver-modifier":"beta",
+	"developed":"cyberrzzz",
+	"license":"https://rootdatabase01-150382-ff3x150.github.io/license.html",
 	"header-links":{
 		"site-study":"https://classroom.google.com/u/9/c/NzA4MDA1MzAyMDYy?hl=ru",
 		"diary":"https://nz.ua/menu",
@@ -231,13 +234,9 @@
 		}
 
 	],
-	"license":"https://www.gnu.org/licenses/agpl-3.0.txt",
 	"style":{
-		"img-list":[
-			"https://rootdatabase01-150382-ff3x150.github.io/img/timetable-logo.png",
-			""
-	
-		]
+		"img-count":7
 	}
 
 }
+
