@@ -231,7 +231,16 @@
 					"img":"https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
 				}
 			]
+		},
+		{
+			"Cobalt Downloader":[
+				{
+					"link":"https://cobalt.tools/",
+					"img":"https://cobalt.tools/meowbalt/smile.png"
+				}
+			]
 		}
+		
 
 	],
 	"style":{
