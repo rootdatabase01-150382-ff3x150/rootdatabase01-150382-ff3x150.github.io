@@ -1,7 +1,7 @@
 {
 	"name": "Timetable Web App",
-	"version": "7.0.0",
-	"ver-modifier":"Beta* from 21.12.2024",
+	"version": "7.0.13 Official Release",
+	"ver-modifier":"from 10.01.2025",
 	"developed":"CoinTrade Finance",
 	"license":"https://rootdatabase01-150382-ff3x150.github.io/license.html",
 	"header-links":{
@@ -177,7 +177,7 @@
 			]
 		},
 		{
-			"Claude.ai":[
+			"Claude.AI":[
 				{
 					"link":"https://claude.ai/new",
 					"img":"https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png"
@@ -209,7 +209,7 @@
 			]
 		},
 		{
-			"Julius.ai":[
+			"Julius.AI":[
 				{
 					"link":"https://julius.ai/chat",
 					"img":"https://play-lh.googleusercontent.com/57_nm4gcTGjua5XjYU01Py3DDBT7lAeqEfznVmtaXEMqi0cAjewiW7CA6yfC1GYe2XY"
@@ -217,7 +217,7 @@
 			]
 		},
 		{
-			"Blackbox.ai":[
+			"Blackbox.AI":[
 				{
 					"link":"https://www.blackbox.ai/",
 					"img":"https://play-lh.googleusercontent.com/Z_fquqqNzAd8FkpSjlnURnMtmLh8HRf_h_kIwhs0NbXKpO4WZ_fyZfi0f5yQsNmRL_lP"
@@ -229,6 +229,14 @@
 				{
 					"link":"https://huggingface.co/spaces/Qwen/Qwen2-Math-Demo",
 					"img":"https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+				}
+			]
+		},
+		{
+			"Qwenlm.AI":[
+				{
+					"link":"https://chat.qwenlm.ai/",
+					"img":"https://avatars.githubusercontent.com/u/141221163?s=200&v=4"
 				}
 			]
 		},
