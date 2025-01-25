@@ -7,7 +7,7 @@
 	"header-links":{
 		"site-study":"https://classroom.google.com/u/9/c/NzA4MDA1MzAyMDYy?hl=ru",
 		"diary":"https://nz.ua/menu",
-		"robocode":"https://profile.robocode.ua/profile/user6364413748"
+		"robocode":"https://robocode.digitee.space/profile/834"
 
 	},
 	"timetable": {
@@ -104,6 +104,14 @@
 		]
 	},
 	"links":[
+		{
+			"Robocode Old":[
+				{
+					"link":"https://profile.robocode.ua/profile/user6364413748",
+					"img":"https://static.tildacdn.one/tild3839-3562-4331-b066-323330396637/logo.svg"
+				}
+			]
+		},
 		{
 			"Chat GPT":[
 				{
